@@ -1,0 +1,23 @@
+[
+{“task”: “wash dishes”, “room”: “kitchen”, “urgency”: “high”, “minutes”: 10},
+{“task”: “wipe counters”, “room”: “kitchen”, “urgency”: “medium”, “minutes”: 8},
+{“task”: “clean stovetop”, “room”: “kitchen”, “urgency”: “medium”, “minutes”: 10},
+{“task”: “take out trash”, “room”: “kitchen”, “urgency”: “high”, “minutes”: 5},
+{“task”: “mop kitchen floor”, “room”: “kitchen”, “urgency”: “low”, “minutes”: 15},
+{“task”: “sweep floor”, “room”: “living room”, “urgency”: “medium”, “minutes”: 12},
+{“task”: “vacuum carpet”, “room”: “living room”, “urgency”: “medium”, “minutes”: 15},
+{“task”: “dust surfaces”, “room”: “living room”, “urgency”: “low”, “minutes”: 10},
+{“task”: “organize clutter”, “room”: “living room”, “urgency”: “medium”, “minutes”: 20},
+{“task”: “clean toilet”, “room”: “bathroom”, “urgency”: “high”, “minutes”: 7},
+{“task”: “scrub sink”, “room”: “bathroom”, “urgency”: “medium”, “minutes”: 8},
+{“task”: “wipe mirror”, “room”: “bathroom”, “urgency”: “low”, “minutes”: 5},
+{“task”: “scrub shower”, “room”: “bathroom”, “urgency”: “medium”, “minutes”: 15},
+{“task”: “do laundry (start)”, “room”: “laundry room”, “urgency”: “high”, “minutes”: 5},
+{“task”: “fold laundry”, “room”: “laundry room”, “urgency”: “medium”, “minutes”: 15},
+{“task”: “vacuum bedroom”, “room”: “bedroom”, “urgency”: “low”, “minutes”: 15},
+{“task”: “make bed”, “room”: “bedroom”, “urgency”: “medium”, “minutes”: 5},
+{“task”: “change bed sheets”, “room”: “bedroom”, “urgency”: “low”, “minutes”: 10},
+{“task”: “organize closet”, “room”: “bedroom”, “urgency”: “low”, “minutes”: 30},
+{“task”: “wipe baseboards”, “room”: “general”, “urgency”: “low”, “minutes”: 20},
+{“task”: “clean windows”, “room”: “general”, “urgency”: “low”, “minutes”: 20}
+]
