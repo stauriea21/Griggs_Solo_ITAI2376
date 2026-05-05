@@ -178,7 +178,7 @@ My place is kind of a mess. I have maybe 30 minutes.
 
 ## Demo Video
 
-📹 [Watch the CleanFlow Demo](demo/CleanFlow_Demo.mp4)
+📹 [Watch the CleanFlow Demo](https://www.loom.com/share/f0f7facbdd2a4b17afc0ea3c3e898b77)
 
 *(Also available in the `/demo` folder of this repository)*
 
